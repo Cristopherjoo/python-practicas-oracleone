@@ -21,6 +21,7 @@ python-practicas-one/
 │
 ├── 01-variables-operadores.ipynb
 ├── 02-condicionales.ipynb
+├── 03-while-for.ipynb
 │
 └── README.md
 
